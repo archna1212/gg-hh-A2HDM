@@ -1,0 +1,5 @@
+# LHAPDF grids are downloaded by the notebook on first run
+pdfsets/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

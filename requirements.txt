@@ -1,0 +1,8 @@
+# Minimum versions the notebook needs. For exact reproducibility, replace these
+# with the versions from the environment you ran it in (run `pip freeze | grep -iE "numpy|scipy|pandas|matplotlib|parton"`).
+numpy>=1.22
+scipy>=1.8
+pandas>=1.4
+matplotlib>=3.5
+parton==0.2.2
+jupyterlab

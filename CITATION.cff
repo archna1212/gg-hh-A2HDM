@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this notebook, please cite it as below."
+title: "gg -> hh at LO with full top-mass dependence in the SM and the aligned two-Higgs-doublet model"
+type: software
+version: "1.0"
+date-released: 2026-11-05
+license: MIT
+authors:
+  - family-names: Gupta
+    given-names: Archana
+    affiliation: "Department of Physics, IIT (BHU), Varanasi, India"
+repository-code: "https://github.com/archna1212/gg-hh-A2HDM"
+abstract: >-
+  A self-contained Jupyter notebook that computes pp -> hh through gluon fusion at
+  leading order with exact top-quark mass dependence, in the Standard Model and in the
+  aligned two-Higgs-doublet model (A2HDM). It includes triangle/box/resonant-heavy-scalar
+  decomposition, a constraint filter, SM and A2HDM benchmarks, m_hh and pT distributions,
+  and built-in validation checks.
+keywords:
+  - Higgs pair production
+  - gluon fusion
+  - aligned two-Higgs-doublet model
+  - Higgs self-coupling
+  - LHC
