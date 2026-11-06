@@ -32,7 +32,7 @@ directly on GitHub without running anything.
 | BP2 (resonant) | m_H = 300 GeV, m_A = m_H± = 350 GeV | 60.89 | 3.69 |
 
 With the PDF4LHC15 set used in the literature, the SM value is 16.79 fb, which agrees with the full-m_t LO
-result of Borowka et al. (16.72 fb) to within 2%.
+result of Borowka et al. (16.72 fb) to within 0.4%.
 
 **Accuracy statement.** Everything here is LO QCD. NLO QCD with full top-mass dependence raises the SM rate by
 a factor of about 1.7. Use the ratios σ_A2HDM / σ_SM, which are far more stable, and do not quote the absolute
