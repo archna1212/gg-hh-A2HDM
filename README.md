@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1446639268.svg)](https://doi.org/10.5281/zenodo.24029210)
 # gg → hh in the SM and the aligned 2HDM
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/archna1212/gg-hh-A2HDM/blob/main/gg_hh_SM_A2HDM.ipynb)
